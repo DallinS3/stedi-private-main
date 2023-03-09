@@ -1,0 +1,11 @@
+main:
+    title:
+    body:
+        para1:
+---
+idea:
+    thought:
+---
+last:
+    thesis:
+    action:
