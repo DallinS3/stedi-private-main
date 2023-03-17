@@ -7,3 +7,15 @@ To start this project, run the following commands:
 `docker build . -t stedi`
 
 `docker run --env-file ./env.list stedi`
+
+# Notes/Commands
+
+kubectl get pods
+kubectl describe pod <>
+kubectl logs <>
+kubectl apply -f dev.yaml
+docker images
+docker run -p port#:port#
+docker ps
+docker kill <>
+
