@@ -11,11 +11,11 @@ To start this project, run the following commands:
 # Notes/Commands
 
 kubectl get pods
-kubectl describe pod <>
-kubectl logs <>
+kubectl describe pod <name>
+kubectl logs <name>
 kubectl apply -f dev.yaml
 docker images
 docker run -p port#:port#
 docker ps
-docker kill <>
+docker kill <name>
 
