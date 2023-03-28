@@ -51,3 +51,7 @@ spec:
   clusterIP: None
   selector:
     app: redis-stedi-dallin
+# 
+# Stateful Set
+# Service
+# Running in pod

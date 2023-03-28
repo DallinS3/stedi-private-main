@@ -19,3 +19,13 @@ docker run -p port#:port#
 docker ps
 docker kill <name>
 
+# Final Requirements
+
+redis.yaml file
+dev.yaml file
+gcr.io-image in Google Cloud
+Dockerfile
+Azure DevOps Pipeline
+    - Docker build
+    - Docker push
+    - kubectl -deploy (like apply -f but scalable too)

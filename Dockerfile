@@ -14,3 +14,4 @@ ENTRYPOINT ["java", "-jar", "/stedi.jar"]
 
 EXPOSE 4567
 
+# Exists and works
